@@ -5,7 +5,7 @@
 First, clone the GitHub repository:
 
 ```bash
-git clone https://github.com/team-headstart/pentagram.git
+git clone https://github.com/KARTHEEKPUTTU/Pentagram-RID.git
 ```
 
 Then, navigate to the project directory:
